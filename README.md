@@ -1,2 +1,2 @@
-# si-night-bot-kit-
+# si-night-bot-kit
 Готовый комплект: ночной бот на фьючерсе Si через T‑Invest API. Python, стратегии, бэктест, инструкции.
